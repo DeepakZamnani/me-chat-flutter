@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "6807732779",
+    "project_id": "me-chat-v2",
+    "storage_bucket": "me-chat-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6807732779:android:e2a52be34109cd571ce06e",
+        "android_client_info": {
+          "package_name": "com.mechat.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6807732779-35qcmfdnub8lge8pl6nou827av1ls2gr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mechat.app",
+            "certificate_hash": "759dd18b204e16d3730617eb3b983322dcb72a1e"
+          }
+        },
+        {
+          "client_id": "6807732779-h3kci5qbbca962i7fj7dibo8ddk4mpaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKofz4kNhofyXvLNlxwUfH5HHXRdUsfmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6807732779-h3kci5qbbca962i7fj7dibo8ddk4mpaj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "6807732779-8l9qj3c0l7l24eoeb2iomk8n98b3n49k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.meChatUpdate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
